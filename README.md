@@ -1,2 +1,3 @@
 # Practice
-For Intentership Practice 
+For Internship Practice 
+Author-Meera Goswami
